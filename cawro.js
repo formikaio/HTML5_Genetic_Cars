@@ -44,7 +44,7 @@ var gen_parentality = 0.2;
 var gen_mutation = 0.05;
 var mutation_range = 1;
 var gen_counter = 0;
-var nWheels = 3;
+var nWheels = 2;
 var nAttributes = 9 + 3 * nWheels; // change this when genome changes
 
 var gravity = new b2Vec2(0.0, -9.81);
